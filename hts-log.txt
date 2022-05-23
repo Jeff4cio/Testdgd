@@ -1,0 +1,46 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 23 May 2022 14:26:27 at https://unicheck.com/free-plagiarism-checker-online +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://unicheck.com/free-plagiarism-checker-online -O1 "E:\1Downloads\Web Based Plagarism Checker" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:26:29	Warning: 	Note: due to https://unicheck.com remote robots.txt rules, links beginning with these path will be forbidden: /password*, /social*, /login*, /signup*, /check, /blog/tag/*, /blog/author/*, /blog/cgi-bin/, /blog/wp-admin/, /blog/?s=*, /blog/xmlrpc.com, /blog/wp-login.php, /blog/uk/*, /blog/es/* (see in the options to disable this)
+14:27:33	Warning: 	Moved Permanently for unicheck.com/robots.txt
+14:27:33	Warning: 	Redirected link is identical because of 'URL Hack' option: unicheck.com/robots.txt and https://unicheck.com/robots.txt
+14:27:33	Warning: 	Warning moved treated for unicheck.com/robots.txt (real one is https://unicheck.com/robots.txt)
+14:27:33	Warning: 	Moved Permanently for unicheck.com/blog/
+14:27:33	Warning: 	Redirected link is identical because of 'URL Hack' option: unicheck.com/blog/ and https://unicheck.com/blog/
+14:27:33	Warning: 	File has moved from unicheck.com/blog/ to https://unicheck.com/blog/
+14:27:33	Warning: 	Link https://unicheck.com/login/personal not scanned (follow robots meta tag)
+14:27:33	Warning: 	Link https://unicheck.com/login/education not scanned (follow robots meta tag)
+14:27:33	Warning: 	Link https://unicheck.com/login/business not scanned (follow robots meta tag)
+14:27:33	Warning: 	Link https://unicheck.com/signup not scanned (follow robots meta tag)
+14:27:33	Warning: 	Link https://unicheck.com/education-request not scanned (follow robots meta tag)
+14:27:37	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://unicheck.com/free-plagiarism-checker-online)
+14:27:38	Warning: 	Moved Permanently for unicheck.com/ua/blog/
+14:27:38	Warning: 	Redirected link is identical because of 'URL Hack' option: unicheck.com/ua/blog/ and https://unicheck.com/ua/blog/
+14:27:38	Warning: 	File has moved from unicheck.com/ua/blog/ to https://unicheck.com/ua/blog/
+14:27:38	Warning: 	Link https://unicheck.com/uk-ua/login/personal not scanned (follow robots meta tag)
+14:27:38	Warning: 	Link https://unicheck.com/uk-ua/login/education not scanned (follow robots meta tag)
+14:27:38	Warning: 	Link https://unicheck.com/uk-ua/login/business not scanned (follow robots meta tag)
+14:27:38	Warning: 	Link https://unicheck.com/uk-ua/signup not scanned (follow robots meta tag)
+14:27:38	Warning: 	Link https://unicheck.com/uk-ua/education-request not scanned (follow robots meta tag)
+14:27:39	Error: 	"Not Found" (404) at link https://unicheck.com/images/es-es/open-graph.jpg (from https://unicheck.com/es-es/free-plagiarism-checker-online)
+14:27:39	Warning: 	Link https://unicheck.com/es-es/login/personal not scanned (follow robots meta tag)
+14:27:40	Warning: 	Link https://unicheck.com/es-es/login/education not scanned (follow robots meta tag)
+14:27:40	Warning: 	Link https://unicheck.com/es-es/login/business not scanned (follow robots meta tag)
+14:27:40	Warning: 	Link https://unicheck.com/es-es/signup not scanned (follow robots meta tag)
+14:27:40	Warning: 	Link https://unicheck.com/es-es/education-request not scanned (follow robots meta tag)
+14:27:40	Error: 	"Not Found" (404) at link https://unicheck.com/uk-ua/contract-cheating-prevention (from https://unicheck.com/contract-cheating-prevention)
+14:27:40	Error: 	"Not Found" (404) at link https://unicheck.com/es-es/contract-cheating-prevention (from https://unicheck.com/contract-cheating-prevention)
+14:27:40	Error: 	"Not Found" (404) at link https://unicheck.com/partner-network (from https://unicheck.com/unicheck-partner-network)
+14:27:40	Error: 	"Not Found" (404) at link https://unicheck.com/uk-ua/partner-network (from https://unicheck.com/unicheck-partner-network)
+14:27:40	Error: 	"Not Found" (404) at link https://unicheck.com/es-es/partner-network (from https://unicheck.com/unicheck-partner-network)
+14:27:40	Warning: 	Link https://unicheck.com/partnership-request not scanned (follow robots meta tag)
+14:27:40	Error: 	"Not Found" (404) at link https://unicheck.com/uk-ua/authorship-verification (from https://unicheck.com/authorship-verification)
+14:27:40	Error: 	"Not Found" (404) at link https://unicheck.com/es-es/authorship-verification (from https://unicheck.com/authorship-verification)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 13 seconds : 120 links scanned, 107 files written (11408497 bytes overall) [5724903 bytes received at 78423 bytes/sec], 12163342 bytes transferred using HTTP compression in 113 files, ratio 46%, 9.3 requests per connection
+(9 errors, 26 warnings, 0 messages)

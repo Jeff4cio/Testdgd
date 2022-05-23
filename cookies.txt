@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.unicheck.com	TRUE	/	FALSE	1999999999	language	en_US
+unicheck.com	TRUE	/	FALSE	1999999999	SameSite	None
+
